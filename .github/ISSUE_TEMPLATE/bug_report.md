@@ -2,8 +2,9 @@
 name: Bug report
 about: Create a report to help us improve
 title: 'Bug report: *insert your title here*'
-labels: bug, frontend, user report
+labels: frontend, user report
 assignees: AstridBVW
+type: Bug
 
 ---
 
