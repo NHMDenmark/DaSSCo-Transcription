@@ -5,7 +5,7 @@ title: 'User report: insert your title here'
 labels: bug, frontend, user report
 assignees: AstridBVW
 type: Bug
-project: DaSSCo Transcription
+
 ---
 
 **Describe the problem**
