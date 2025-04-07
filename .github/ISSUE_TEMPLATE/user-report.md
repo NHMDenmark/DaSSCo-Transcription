@@ -1,15 +1,14 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: 'Bug report: *insert your title here*'
-labels: frontend, user report
+name: User report
+about: For users of the DaSSCo Transcription platform
+title: 'User report: insert your title here'
+labels: bug, frontend, user report
 assignees: AstridBVW
-type: Bug
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Describe the problem**
+A clear and concise description of what the problem is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
