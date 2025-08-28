@@ -4,7 +4,6 @@ about: Template for admin bug reporting
 title: ''
 labels: bug
 assignees: ''
-type: Bug
 
 ---
 
